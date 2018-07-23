@@ -2,6 +2,6 @@
 
 
 ## Contributors
-*[speedxcc](https://github.com/speedxcc)
+* [speedxcc](https://github.com/speedxcc)
 
-*[fywest](https://github.com/fywest/)
+* [fywest](https://github.com/fywest/)
