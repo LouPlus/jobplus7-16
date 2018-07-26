@@ -113,4 +113,4 @@ class Job(Base):
     views_count = db.Column(db.Integer, default=0)
 
     def __repr__(self):
-        return '<Job {
+        return '<Job {}>'.format(self.name)
